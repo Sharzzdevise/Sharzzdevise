@@ -28,4 +28,4 @@ Want to know more about; let's connect👉 www.linkedin.com/in/sharondim/
 
 [![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise)](https://github.com/Sharzzdevise/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzzdevise)
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&show_icons=true&theme=radical)
