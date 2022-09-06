@@ -16,6 +16,8 @@ I am proficient in building rapport and easily explaining technical information 
 
 Consistently recognized as a hands on and competent Leader, also a selfless "Volunteer"  with various organizations, backed up with notable recommendations.
 
-Extremely committed to Self growth, development and Research Studies with series of projects to my credit here (repositries).
+Extremely committed to Self growth, development, collaborations, teamwork and Research Studies 
+
+For projects worked on; kindly find them in my repositry section. 
 
 My linkedin profile 👉 www.linkedin.com/in/sharondim/
