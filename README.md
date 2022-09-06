@@ -27,3 +27,5 @@ For projects worked on; kindly find them in my repositry section.
 Want to know more about; let's connect👉 www.linkedin.com/in/sharondim/
 
 [![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise)](https://github.com/Sharzzdevise/github-readme-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharzzdevise)
