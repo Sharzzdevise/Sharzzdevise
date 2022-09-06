@@ -1,6 +1,4 @@
 # Who is Sharon Dim and What is she building? 👩‍💻📊📉📈
-![WhatsApp Image 2022-09-06 at 9 36 38 PM](https://user-images.githubusercontent.com/102169299/188733410-8ea5bd1d-539e-422c-921b-7d79f0259276.jpeg)
-
 
 Sharon is a meticulous, creative and analytical Data Analyst and Scientist. Proficient with Microsoft 365 Excel, BI,SQL, Python tools for data analysis. 
 ...
