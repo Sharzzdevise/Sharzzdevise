@@ -25,3 +25,5 @@ For projects worked on; kindly find them in my repositry section.
  I have a blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
 
 Want to know more about; let's connect👉 www.linkedin.com/in/sharondim/
+
+![](https://raw.githubusercontent.com/Sharzzdevise/github-stats/master/generated/overview.svg#gh-dark-mode-only)
