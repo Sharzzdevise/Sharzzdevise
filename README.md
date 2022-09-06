@@ -1,9 +1,10 @@
 # Who is Sharon Dim and What is she building? 👩‍💻📊📉📈
+
 Sharon is a meticulous, creative and analytical Data Analyst and Scientist. Proficient with Microsoft 365 Excel, BI,SQL, Python tools for data analysis. 
 
-I am passionate about Data; it's analytical and scientific aspect, Artificial Intelligence and Cloud services.  
+I am passionate about Data; it's analytical and scientific aspect, Machine learning, Artificial Intelligence and Cloud services.  
 
-I am skilled in analysing datasets using Python, NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks with a passion to solve business challenges, help businesses make excellent decisions and improve productivity.
+I am skilled in analysing datasets using Python, NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks in a Jupyter notebook with a passion to solve business challenges, help businesses make excellent decisions and improve productivity.
 
 I have a proven track of overcoming data flow queries and issues excellently. 
 
@@ -13,4 +14,4 @@ I am proficient in building rapport and easily explaining technical information 
 
 Consistently recognized as a hands on and competent Leader and selfless volunteer with various organizations, backed up with notable recommendations.
 
-Extremely committed to Self growth, development and Research Studies with series of projects to my credit published in my Github page (repositries).
+Extremely committed to Self growth, development and Research Studies with series of projects to my credit here (repositries).
