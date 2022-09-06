@@ -20,4 +20,6 @@ Extremely committed to Self growth, development, collaborations, teamwork and Re
 
 For projects worked on; kindly find them in my repositry section. 
 
-My linkedin profile 👉 www.linkedin.com/in/sharondim/
+ I have a blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
+
+Want to know more about; let's connect👉 www.linkedin.com/in/sharondim/
