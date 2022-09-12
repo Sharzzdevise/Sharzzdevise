@@ -26,4 +26,12 @@ Want to know more about; let's connect👉🤝 www.linkedin.com/in/sharondim/
 
 ![Sharon's Github stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&theme=highcontrast&show_icons=true&count_private=true)
 
+# ⚒️Languages and Tools
+
+![github-original](https://user-images.githubusercontent.com/102169299/189702432-ff61eebb-0c35-4f3a-aa60-b43bd9954cfb.svg)
+![git-original-wordmark](https://user-images.githubusercontent.com/102169299/189702454-7e01bccd-7377-48ac-8a08-7a3674fb8def.svg)
+![python-original](https://user-images.githubusercontent.com/102169299/189702492-e83813c3-6122-4d16-8fd8-9861f130f40b.svg)
+![pandas-original-wordmark](https://user-images.githubusercontent.com/102169299/189702512-18f4cd23-e439-4d0d-a943-1c0885e2fe8a.svg)
+
+
 
