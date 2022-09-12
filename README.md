@@ -6,13 +6,11 @@ Tools💻 - Microsoft 365 Excel, BI, SQL, Azure, Python tools(NumPy, Matplotlib,
 
 I am passionate about Data; it's analytical and scientific aspect, Machine learning, Artificial Intelligence and Cloud services.  
 
-👩‍🏫I train, advice and assist great minds in the best way I can start and advance a career in Data Analytics and science
+👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis and science
 
 👩‍💻📊📈📉I am skilled in analysing datasets using Python, NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks in a Jupyter notebook with a passion to solve business challenges, help businesses make excellent decisions and improve productivity.
 
-I have a proven track of overcoming data flow queries and issues excellently. 
-
-☁️I also possess technical skills in working with data and automating processes in Azure Cloud environment, Scrum methodologies for Software Development Project Management
+☁️I also possess technical skills in working with data and automating processes in Azure Cloud environment
 
 I am proficient in building rapport and easily explaining technical information across teams. 
 
