@@ -25,6 +25,3 @@ For projects worked on; kindly find them in my repository section.
 Want to know more about; let's connect👉🤝 www.linkedin.com/in/sharondim/
 
 ![Sharon's Github stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&theme=highcontrast&show_icons=true&count_private=true)
-
-# ⚒️Languages and Tools
-![microsoftsqlserver-plain-wordmark (1)](https://user-images.githubusercontent.com/102169299/189702753-aa0f66df-c5c6-4ca1-b4c9-5765486e6da4.svg)
