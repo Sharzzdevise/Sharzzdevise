@@ -22,7 +22,7 @@ For projects worked on; kindly find them in my repository section.
 
 📰 I have a medium blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
 
-Want to know more about; let's connect👉🤝 www.linkedin.com/in/sharondim/
+Want to know more about me; let's connect👉🤝 www.linkedin.com/in/sharondim/
 
 ![Sharon's Github stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&theme=highcontrast&show_icons=true&count_private=true)
 
