@@ -10,7 +10,7 @@ I am passionate about Data; it's analytical and scientific aspect, Machine learn
 
 👩‍💻📊📈📉I am skilled in analysing datasets using Python, NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks in a Jupyter notebook with a passion to solve business challenges, help businesses make excellent decisions and improve productivity.
 
-☁️I also possess technical skills in working with data and automating processes in Azure Cloud environment
+☁️I also possess technical skills in working with data and automating processes within Azure Cloud environment
 
 I am proficient in building rapport and easily explaining technical information across teams. 
 
@@ -20,7 +20,7 @@ I am proficient in building rapport and easily explaining technical information 
 
 For projects worked on; kindly find them in my repository section. 
 
-📰 I have a blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
+📰 I have a medium blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
 
 Want to know more about; let's connect👉🤝 www.linkedin.com/in/sharondim/
 
