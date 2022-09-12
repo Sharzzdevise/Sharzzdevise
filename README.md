@@ -1,8 +1,8 @@
 # Who is Sharon Dim and What is she building? 👩‍💻📊📉📈
 
-Sharon is a meticulous, creative and analytical Data Analyst and Scientist. 
+Sharon is a meticulous, creative and innovative Data Analyst and Scientist. 
 
-Tools💻 - Microsoft 365 Excel, BI, SQL, Azure, Python tools(NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks in a Jupyter notebook) for data analysis. 
+Tools💻 - Microsoft Excel, BI, SQL, Azure, Python libraries (NumPy, Matplotlib, Pandas, Seaborn, Pyplot) for data analysis/science. 
 
 I am passionate about Data; it's analytical and scientific aspect, Machine learning, Artificial Intelligence and Cloud services.  
 
@@ -18,7 +18,7 @@ I am proficient in building rapport and easily explaining technical information 
 
 📚Extremely committed to Self growth, development, collaborations, teamwork and Research Studies 
 
-For projects worked on; kindly find them in my repositry section. 
+For projects worked on; kindly find them in my repository section. 
 
 📰 I have a blog page dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
 
