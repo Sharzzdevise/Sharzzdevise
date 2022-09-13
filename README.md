@@ -1,4 +1,4 @@
-# Who is Sharon Dim and What is she building? 👩‍💻📊📉📈
+# Who is Sharon and What is she building? 👩‍💻📊📉📈
 
 Sharon is a meticulous, creative and innovative Data Analyst and Scientist. 
 
