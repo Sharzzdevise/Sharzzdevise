@@ -1,6 +1,6 @@
 # Who is Sharon and What is she building? 👩‍💻📊📉📈
 
-Sharon is a meticulous, creative and innovative Data Analyst and Scientist. 
+Sharon is a meticulous, creative and innovative Data Analyst. 
 
 Tools💻 - Microsoft Excel, BI, SQL, Azure, Python libraries (NumPy, Matplotlib, Pandas, Seaborn, Pyplot) for data analysis/science. 
 
