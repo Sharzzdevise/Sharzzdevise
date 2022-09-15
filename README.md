@@ -6,7 +6,7 @@ Tools💻 - Microsoft Excel, BI, SQL, Azure, Python libraries (NumPy, Matplotlib
 
 I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
 
-👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis and science
+👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis, Engineering and cloud services
 
 👩‍💻📊📈📉I am skilled in analysing datasets using Python, NumPy, Matplotlib, Pandas, Seaborn, Pyplot frameworks in a Jupyter notebook with a passion to solve business challenges, help businesses make excellent decisions and improve productivity.
 
