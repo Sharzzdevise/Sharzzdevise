@@ -26,4 +26,3 @@ Want to know more about me; let's connect👉🤝 www.linkedin.com/in/sharondim/
 
 ![Sharon's Github stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&theme=highcontrast&show_icons=true&count_private=true)
 
-
