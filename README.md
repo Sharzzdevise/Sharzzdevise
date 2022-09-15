@@ -4,7 +4,7 @@ Sharon is a meticulous, creative and innovative Data Analyst.
 
 Tools💻 - Microsoft Excel, BI, SQL, Azure, Python libraries (NumPy, Matplotlib, Pandas, Seaborn, Pyplot) for data analysis/science. 
 
-I am passionate about Data; it's analytical and scientific aspect, Machine learning, Artificial Intelligence and Cloud services.  
+I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
 
 👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis and science
 
