@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sharondim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/users/19566432/@dimsharon89">
+  <a href="https://medium.com/@dimsharon89">
     <img src="https://img.shields.io/badge/medium-white?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="medium Badge"/>
   </a>
   <a href="https://twitter.com/sharzzofficial">
