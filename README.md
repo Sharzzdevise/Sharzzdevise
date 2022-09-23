@@ -64,3 +64,6 @@ Want to know more about me; let's connect👉🤝 www.linkedin.com/in/sharondim/
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   
 </div>
+
+## My Twitter Updates
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sharzzofficial)](https://github.com/gazf/github-readme-twitter)
