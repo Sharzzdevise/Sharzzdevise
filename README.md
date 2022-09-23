@@ -27,7 +27,7 @@ I am proficient in building rapport and easily explaining technical information 
 
 👯‍♀️I am also looking to collaborate in Data Analytics and Engineering projects
 
-💁‍♀️💝Consistently recognized as a hands on and competent Leader, also a selfless "Volunteer"  with various organizations, backed up with notable recommendations.
+💁‍♀️💝Consistently recognized as a hands on and competent Leader, and also a selfless "Volunteer"  with various organizations, backed up with notable recommendations.
 
 📚I am extremely committed to Self growth, development, collaborations, teamwork and Research Studies 
 
