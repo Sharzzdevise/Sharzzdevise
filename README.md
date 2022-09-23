@@ -1,5 +1,7 @@
 # Who is Sharon and What is she building? 👩‍💻📊📉📈
 
+https://github.com/sharzzdevise/sharzzdevise/blob/main/README.md
+
 Sharon is a meticulous, creative and innovative Data Analyst. 
 
 Tools💻 - Microsoft Excel, BI, SQL, Azure, Python libraries (NumPy, Matplotlib, Pandas, Seaborn, Pyplot) for data analysis/science. 
