@@ -1,6 +1,20 @@
 # Who is Sharon and What is she building? 👩‍💻📊📉📈
 
-https://github.com/sharzzdevise/sharzzdevise/blob/main/README.md
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fYBEN9TRdEnW0HDMJS/giphy.gif" width="100"/>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/sharondim/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/users/19566432/@dimsharon89">
+    <img src="https://img.shields.io/badge/medium-white?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="medium Badge"/>
+  </a>
+  <a href="https://twitter.com/sharzzofficial">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br />
+  </a>
+   <img src="https://komarev.com/ghpvc/?username=Sharzzdevise&style=flat-square&color=blue" alt=""/>
+</div>
+</div>
 
 Sharon is a meticulous, creative and innovative Data Analyst. 
 
