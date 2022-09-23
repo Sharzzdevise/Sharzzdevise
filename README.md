@@ -16,6 +16,11 @@
 </div>
 </div>
 
+![](https://github.com/sharzzdevise/sharzzdevise/raw/master/2020/output/dropped-timeline.gif)
+
+[Sponsor my open source work](https://github.com/sponsors/sharzzdevise)
+
+
 Sharon is a meticulous, creative and innovative Data Analyst. 
 
 She is passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
