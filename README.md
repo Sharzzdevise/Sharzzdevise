@@ -20,7 +20,7 @@ Sharon is a meticulous, creative and innovative Data Analyst.
 
 She is passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
 
-👩‍🏫She trains, advice and assist great minds in the best way I can to start and advance a career in Data Analysis, Engineering and cloud services
+👩‍🏫She trains, advice and assist great minds in the best way she can to start and advance a career in Data Analysis, Engineering and cloud services
 
 ☁️She also possess technical skills in working with data and automating processes within Azure Cloud environment
 
