@@ -15,7 +15,7 @@
 </div>
 </div>
 
-![](https://github.com/sharzzdevise/sharzzdevise/raw/Master/2020/output/dropped-timeline.gif)
+<p align="left"> <a href="https://github.com/sharzzdevise/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharzzdevise" alt="sharzzdevise" /></a> </p>
 
 Certified Data Analyst|| IOT and Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
 
