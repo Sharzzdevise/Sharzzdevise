@@ -17,7 +17,7 @@
 
 ![](https://github.com/sharzzdevise/sharzzdevise/raw/Master/2020/output/dropped-timeline.gif)
 
-Certified Data Analyst|| Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
+Certified Data Analyst|| IOT and Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
 
 I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence, IOT and Cloud services.  
 
