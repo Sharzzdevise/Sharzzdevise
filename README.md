@@ -19,7 +19,7 @@
 
 Certified Data Analyst|| Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
 
-I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
+I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence, IOT and Cloud services.  
 
 👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis, Engineering and cloud services
 
