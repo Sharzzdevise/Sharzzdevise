@@ -19,7 +19,7 @@
 
 Certified Data Analyst|| IOT and Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
 
-❤️‍🔥I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence, IOT and Cloud services and open to discussions in this fields.
+❤️‍🔥I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence, IOT and Cloud services and open to discussions and questions in this fields.
 
 ☁️I also possess technical skills in working with data and automating processes within Azure Cloud environment
 
