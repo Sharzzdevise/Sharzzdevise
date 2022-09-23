@@ -54,7 +54,6 @@ Want to know more about me; let's connect👉🤝 www.linkedin.com/in/sharondim/
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
   <img src="https://www.spkaa.com/wp-content/uploads/2022/04/Tableau-Logo-1.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://aptude.com/wp-content/uploads/2021/11/powerbi_logo-1.png" title="PowerBI" alt="PowerBI" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
