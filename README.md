@@ -17,15 +17,15 @@
 
 ![](https://github.com/sharzzdevise/sharzzdevise/raw/Master/2020/output/dropped-timeline.gif)
 
-Sharon is a meticulous, creative and innovative Data Analyst. 
+Certified Data Analyst|| Data Engineering scholar || Technical writer || Microsoft Certified Azure Professional| SDLC management| Volunteer
 
-She is passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
+I am passionate about Data; it's analytical and engineering aspect, Artificial Intelligence and Cloud services.  
 
-👩‍🏫She trains, advice and assist great minds in the best way she can to start and advance a career in Data Analysis, Engineering and cloud services
+👩‍🏫I train, advice and assist great minds in the best way I can to start and advance a career in Data Analysis, Engineering and cloud services
 
-☁️She also possess technical skills in working with data and automating processes within Azure Cloud environment
+☁️I also possess technical skills in working with data and automating processes within Azure Cloud environment
 
-She is proficient in building rapport and easily explaining technical information across teams. 
+I am proficient in building rapport and easily explaining technical information across teams. 
 
 💁‍♀️💝Consistently recognized as a hands on and competent Leader, also a selfless "Volunteer"  with various organizations, backed up with notable recommendations.
 
