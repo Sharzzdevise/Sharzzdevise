@@ -25,7 +25,7 @@ Certified Data Analyst|| IOT and Artificial Intelligence scholar || Technical wr
 
 I am proficient in building rapport and easily explaining technical information across teams. 
 
-👯‍♀️I am also looking to collaborate in Data Analytics and Engineering projects
+👯‍♀️I am also looking to collaborate in Data Analytics, science and Machine learning projects
 
 💁‍♀️💝Consistently recognized as a hands on and competent Leader, and also a selfless "Volunteer"  with various organizations, backed up with notable recommendations.
 
