@@ -44,7 +44,7 @@ For projects worked on; kindly find them in my repository section.
 ### Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharzzdevise&show_icons=true&locale=en&layout=compact" alt="Sharzzdevise" /></p>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
