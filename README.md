@@ -54,14 +54,13 @@ For projects worked on; kindly find them in my repository section.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.spkaa.com/wp-content/uploads/2022/04/Tableau-Logo-1.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://aptude.com/wp-content/uploads/2021/11/powerbi_logo-1.png" title="PowerBI" alt="PowerBI" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL"  alt="MYSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>
   
 </div>
 
