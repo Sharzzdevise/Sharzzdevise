@@ -41,6 +41,9 @@ For projects worked on; kindly find them in my repository section.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sharzzdevise&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharzzdevise&show_icons=true&locale=en&layout=compact" alt="Sharzzdevise" /></p>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
