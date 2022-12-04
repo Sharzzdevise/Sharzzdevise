@@ -23,7 +23,7 @@ Certified Data Analyst|| Data Science and Artificial Intelligence scholar || Tec
 
 ☁️I also possess technical skills in working with data and automating processes within Azure Cloud environment
 
-I am proficient in building rapport and easily explaining technical information across teams. 
+I am proficient in building rapport and explaining technical information across teams. 
 
 👯‍♀️I am also looking to collaborate in Data Analytics, science and Machine learning projects
 
@@ -33,7 +33,6 @@ I am proficient in building rapport and easily explaining technical information 
 
 For projects worked on; kindly find them in my repository section. 
 
-📰 check my medium blog page- dedicated to Data analytics/ science articles, trends, project insights using various frameworks and tools, AI trends, Cloud services updates, IoT daily trends.
 
 ![Sharon's Github stats](https://github-readme-stats.vercel.app/api?username=Sharzzdevise&theme=highcontrast&show_icons=true&count_private=true)
 
